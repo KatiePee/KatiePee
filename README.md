@@ -5,7 +5,9 @@ Professional skydiver turned software engineer 🤓. Excited to be exploring the
 
 ## Lets Connect:
 
-<a href="https://www.linkedin.com/in/katie-piele/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank" rel="noopener noreferrer"/></a>
+* <a href="https://www.linkedin.com/in/katie-piele/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank" rel="noopener noreferrer"/></a>
+* Check out my portfolio: <a href="katiePee.github.io"> KatiePee.github.io </a>
+
 
 ## Skillz:
 ![Skills](https://skillicons.dev/icons?i=aws,codepen,css,docker)
