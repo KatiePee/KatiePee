@@ -2,7 +2,8 @@
 
 ## About Me:
 Professional skydiver turned software engineer 🤓. Excited to be exploring the wonderful world of Tech!
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KatiePee)](https://git.io/streak-stats)
+## Languages
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KatiePee&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **KatiePee/KatiePee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
